@@ -15,26 +15,22 @@
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
+  </h1>  
+</div>
+<br/>
+
+<div id="about_me" align="center" >
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
+### :woman_technologist: About Me :
+I am a software engineering student of 🏫 Metropolia University of Applied Sciences.
+- :computer: I’m working as a Software Developer who contributes to frontend and backend of web applications as well as Android mobile solutions. 
+- 🔭 I’m currently looking for internship as software developer for mobile and web applications to gain more experiences in the field. 
+- 🌱 I read teach blogs, articles on Medium and Dev Community. In addition to that, I am currently learning React during my free time.
+- 📫 How to reach me: 
+  1. [![Linkedin Badge](https://img.shields.io/badge/-giaongo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giao-ngo-b67450116/)
+  2. :e-mail: phuonggiao.ngo@gmail.com
+  3. :phone:  +358 469524159
 
 
-- 🔭 I’m currently looking for internship as junior software developer for Android mobile applications and web applications. 
-- 👯 I’m looking to collaborate on various mobile and web application projects to gain more experiences in the field 
-
-<!--
-**giaongo/giaongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
