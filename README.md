@@ -23,8 +23,7 @@ I am a software engineering student of 🏫 Metropolia University of Applied Sci
 - 🔭 I’m currently seeking for internship as software developer for mobile and web applications to gain more technical experiences. 
 - 🌱 I read IT blogs on Medium and Dev Community as well as learning new technology during my free time.
 - 📫 How to reach me: 
-  1. :e-mail: phuonggiao.ngo@gmail.com
-  2. :phone:  +358 469524159
+  e-mail: phuonggiao.ngo@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
