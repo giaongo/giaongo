@@ -2,7 +2,11 @@
    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
   
   <div id="badges">
-    <a href="https://www.giaongo.engineer/">My Portfolio Website</a>
+    <br>
+    <div>
+       <p>Visit my portfolio site: <a href="https://www.giaongo.engineer/">https://www.giaongo.engineer/</a></p>
+    </div>
+    <br>
     <a href="https://www.linkedin.com/in/giao-ngo-b67450116/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
