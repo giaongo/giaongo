@@ -4,7 +4,7 @@
   <div id="badges">
     <br>
     <div>
-       <p>Visit my portfolio site: <a href="https://www.giaongo.engineer/" target="_blank" >https://www.giaongo.engineer/</a></p>
+       <p>Visit my portfolio site: <a href="https://www.giaongo.engineer" target="_blank" >https://www.giaongo.engineer</a></p>
     </div>
     <br>
     <a href="https://www.linkedin.com/in/giao-ngo-b67450116/" target="_blank">
