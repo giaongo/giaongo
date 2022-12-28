@@ -6,7 +6,6 @@
     <div>
        <p>Visit my portfolio site: <a href="https://giaongo.engineer" target="_blank" >https://giaongo.engineer</a></p>
     </div>
-    <br>
     <a href="https://www.linkedin.com/in/giao-ngo-b67450116/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
