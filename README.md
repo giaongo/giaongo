@@ -1,6 +1,5 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
-  
+  <img src="https://user-images.githubusercontent.com/83873333/226174686-a24162d8-3dd4-42cb-8595-233e81a360a6.png" width="400" height="300"/>
   <div id="badges">
     <br>
     <div>
