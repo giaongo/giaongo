@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 I am a software engineering student of 🏫 Metropolia University of Applied Sciences, Finland
-- 🔭 I am presently looking for a junior software developer position that focuses on mobile and web applications, in order to expand my technical expertise.
+- 🔭 I am presently looking for an internship position that focuses on mobile and web applications, in order to expand my technical expertise.
 - 🌱 I read IT blogs on Medium and Dev Community as well as learning new technology during my free time.
 - 📫 How to reach me: 
   e-mail: phuonggiao.ngo@gmail.com
