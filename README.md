@@ -12,7 +12,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a software engineering student of 🏫 Metropolia University of Applied Sciences, Finland
+As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am pursuing a degree in software engineering with a focus on developing web applications using the MERN stack and creating mobile solutions using Native Android, Native iOS, and React Native cross-platform technologies.
+
 - 🔭 I am presently looking for an internship position that focuses on mobile and web applications, in order to expand my technical expertise.
 - 🌱 I read IT blogs on Medium and Dev Community as well as learning new technology during my free time.
 - 📫 How to reach me: 
