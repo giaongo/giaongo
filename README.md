@@ -14,7 +14,7 @@
 ### :woman_technologist: About Me :
 As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am pursuing a degree in software engineering with a focus on developing web applications using the MERN stack and creating mobile solutions using Native Android, Native iOS, and React Native cross-platform technologies.
 
-- 🌱 I read IT blogs on Medium and Dev Community as well as learning new technology during my free time.
+- 🌱 During my leisure hours, I engage in the creation of diverse pet projects and actively explore emerging technologies to enhance my knowledge.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
