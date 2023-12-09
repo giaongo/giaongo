@@ -12,9 +12,9 @@
 </div>
 
 ### About Me :
-As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am pursuing a degree in software engineering with a focus on developing software applications for web and mobile.
+As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am actively working towards a degree in software engineering, specializing in the creation of innovative software applications for both web and mobile platforms
 
-- 🌱 During my free time, I immerse myself in the development of a wide range of personal projects and avidly delve into emerging technologies to enrich my knowledge.
+- 🌱 In my leisure hours, I passionately engage in the development of a diverse array of personal projects, consistently exploring and embracing cutting-edge technologies to enhance my skills and deepen my understanding.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
 
 ### Languages and Tools :
