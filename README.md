@@ -11,13 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=giaongo&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am pursuing a degree in software engineering with a focus on developing web and mobile applications.
 
 - 🌱 During my free time, I immerse myself in the development of a wide range of personal projects and avidly delve into emerging technologies to enrich my knowledge.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
