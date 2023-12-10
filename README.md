@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/83873333/226174686-a24162d8-3dd4-42cb-8595-233e81a360a6.png" width="350" height="250"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/giao-ngo-b67450116/" target="_blank">
+    <a href="www.linkedin.com/in/giao-ngo" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UC9IaWVEyCYjHZHPYJ4fvwIQ" target="_blank">
