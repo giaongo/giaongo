@@ -19,7 +19,7 @@ I'm currently studying Information Technology at 🏫 Metropolia University of A
 
 - 🌱 In my free time, I dive into a variety of personal projects, always exploring the latest tech to level up my skills and push my knowledge to new heights.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
-- 🌐 Visit my portfolion website: <a href="https://giaongo.com/" href="__target">Giao Ngo | Portfolio</a>
+- 🌐 Visit my portfolio website: <a href="https://giaongo.com/" href="__target">Giao Ngo | Portfolio</a>
 
 ### Languages and Tools :
 <div>
