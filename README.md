@@ -15,10 +15,11 @@
 </div>
 
 ### About Me :
-As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am actively working towards a degree in Information Technology, specializing in the creation of innovative software applications for both web and mobile platforms
+I'm currently studying Information Technology at 🏫 Metropolia University of Applied Sciences in Finland and aiming to graduate by the end of 2024. I'm all about building cool software for web and mobile, pushing the limits of what's possible!
 
-- 🌱 In my leisure hours, I passionately engage in the development of a diverse array of personal projects, consistently exploring and embracing cutting-edge technologies to enhance my skills and deepen my understanding.
+- 🌱 In my free time, I dive into a variety of personal projects, always exploring the latest tech to level up my skills and push my knowledge to new heights.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
+- 🌐 Visit my portfolion website: <a href="https://giaongo.com/" href="__target">Giao Ngo | Portfolio</a>
 
 ### Languages and Tools :
 <div>
@@ -32,6 +33,7 @@ As a student at 🏫 Metropolia University of Applied Sciences in Finland, I am 
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" widthg"50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" widthg"50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>&nbsp;
