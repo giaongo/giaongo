@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=giaongo&style=flat-square&color=blue" alt=""/>
   <br/>
-  <p><b>Check out my portfolio website:</b> <a href="https://giaongo.com/" href="__target">https://giao_ngo.com</a></p>
+  <p><b>Check out my portfolio website:</b> <a href="https://www.giao-ngo.com/" href="__target">https://giao_ngo.com</a></p>
   <hr class="solid">
 </div>
 
@@ -19,7 +19,7 @@ I'm currently studying Information Technology at 🏫 Metropolia University of A
 
 - 🌱 In my free time, I dive into a variety of personal projects, always exploring the latest tech to level up my skills and push my knowledge to new heights.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
-- 🌐 Visit my portfolio website: <a href="https://giao_ngo.com/" href="__target">Giao Ngo | Portfolio</a>
+- 🌐 Visit my portfolio website: <a href="https://www.giao-ngo.com/" href="__target">Giao Ngo | Portfolio</a>
 
 ### Languages and Tools :
 <div>
