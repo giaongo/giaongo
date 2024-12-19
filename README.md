@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=giaongo&style=flat-square&color=blue" alt=""/>
   <br/>
-  <p><b>Check out my portfolio website:</b> <a href="https://www.giao-ngo.com/" href="__target">https://giao_ngo.com</a></p>
+  <p><b>Check out my portfolio website:</b> <a href="https://www.giao-ngo.com/" href="__target">https://giao-ngo.com</a></p>
   <hr class="solid">
 </div>
 
