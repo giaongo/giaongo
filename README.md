@@ -15,7 +15,7 @@
 </div>
 
 ### About Me :
-I'm currently a final-year student in Information Technology at 🏫 Metropolia University of Applied Sciences in Finland and aiming to graduate in 2025. I'm all about building cool software for web and mobile, pushing the limits of what's possible!
+I'm a passionate developer who loves building clean, efficient, and user-focused software. Whether it's crafting dynamic web apps, mobile apps, contributing to different enterprise projects, or experimenting with new technologies, I enjoy solving real-world problems through code.
 
 - 🌱 In my free time, I dive into a variety of personal projects, always exploring the latest tech to level up my skills and push my knowledge to new heights.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
