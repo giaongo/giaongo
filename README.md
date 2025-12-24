@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img alt="image" src="https://github.com/user-attachments/assets/f2c96fce-297d-4a5b-8025-ce64b4ccda16" width="200" height="350" />
+  <img alt="image" src="https://github.com/user-attachments/assets/f2c96fce-297d-4a5b-8025-ce64b4ccda16" width="150" height="350" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/giao-ngo-b67450116/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
