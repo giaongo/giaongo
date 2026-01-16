@@ -16,8 +16,6 @@
 
 ### About Me :
 I'm a junior software developer at <a href="https://diploi.com/" target="_blank">Diploi.com</a>. Whether it's crafting dynamic web apps, mobile apps, contributing to different enterprise projects, or experimenting with new technologies, I enjoy solving real-world problems through code.
-
-- 🌱 In my free time, I dive into a variety of personal projects, always exploring the latest tech to level up my skills and push my knowledge to new heights.
 - 📫 Reach me through email: phuonggiao.ngo@gmail.com
 - 🌐 Visit my portfolio website: <a href="https://www.giao-ngo.com/" href="__target">Giao Ngo | Portfolio</a>
 
